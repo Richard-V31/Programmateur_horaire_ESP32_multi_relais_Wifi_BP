@@ -3,6 +3,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Arduino-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![Release](https://img.shields.io/badge/Release-v1.0-orange)
+
 Programme Arduino/ESP32 qui transforme une carte ESP32 en **programmateur horaire connecté**, capable de piloter plusieurs relais indépendants, configurable et supervisable depuis un simple navigateur web sur le réseau local, avec un écran OLED en bonus pour un suivi sans PC.
 
 ## ✨ Fonctionnalités
